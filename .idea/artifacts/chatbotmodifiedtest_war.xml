@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="chatbotmodifiedtest:war">
+    <output-path>$PROJECT_DIR$/chatbotmodifiedtest/target</output-path>
+    <root id="archive" name="chatbot-modified-test.war">
+      <element id="artifact" artifact-name="chatbotmodifiedtest:war exploded" />
+    </root>
+  </artifact>
+</component>
